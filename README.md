@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Kaung Min Khant and I'm a Web Developer, from Mandalay</h3>
+<h3 align="center">My name is Kaung Min Khant and I'm a Web Developer, from Yangon</h3>
 
 ###
 
